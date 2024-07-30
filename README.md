@@ -40,10 +40,7 @@ Run the script to execute the steps mentioned above. The script will output the 
 ## Conclusion
 
 This project demonstrates a basic email spam classification system using SVM and TF-IDF vectorization with Python.
-
 ---
-
-Make sure to update the file paths and any configurations as needed.
 
 ![Slide2](https://github.com/user-attachments/assets/a5f26f7f-16f5-4be5-8b97-99ef4e616b9a)
 ![Slide4](https://github.com/user-attachments/assets/bcd0a31c-33b4-4012-b64d-7c085a9e33bc)
